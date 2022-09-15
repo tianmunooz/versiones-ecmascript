@@ -1,0 +1,16 @@
+{
+  "name": "nuevo-curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Practica del Nuevo Curso de ECMAScript de Platzi dictado por Oscar Barajas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Cristian Muñoz <munozcristian226@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
